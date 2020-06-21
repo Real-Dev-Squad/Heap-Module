@@ -35,7 +35,7 @@ JavaScript enviornment
 
 ### Installing
 
-Install the Linked heap module package from npm registry
+Install the Heap module package from npm registry
 
 ```bash
 npm i <repo>/Heap-Module
